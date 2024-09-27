@@ -1,3 +1,7 @@
+body {
+  background-color: aquamarine;
+  padding: 5rem;
+}
 .nav {
   background-color: brown;
   color: antiquewhite;
